@@ -1,5 +1,5 @@
 /*Jesica Rosales Lopez
-laboratorio 10 programa 2*/
+laboratorio 10 programa 1*/
 
 #include<stdio.h> 
 int main() 
@@ -17,4 +17,4 @@ int main()
     } 
  
     return 0; 
-} 
+}
